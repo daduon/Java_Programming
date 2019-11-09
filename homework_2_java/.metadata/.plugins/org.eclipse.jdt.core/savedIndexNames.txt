@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\elcip\homework_2_java\.metadata\.plugins\org.eclipse.jdt.core
+2646918403.index
+1368191007.index
+262963816.index
